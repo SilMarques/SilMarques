@@ -10,11 +10,42 @@
 </div>
 
 ## 📌 Sobre Mim
-Profissional de Dados e IA com vasta atuação em Logística, Supply Chain, Compras e Inteligência de Mercado. Atuo com foco em **Curadoria de IA, Engenharia de Prompts e Otimização de Jornadas Conversacionais**, conectando dados, inteligência artificial generativa e objetivos estratégicos de negócio.
+Profissional de Dados e IA com vasta atuação em Logística, Supply Chain, Compras e Inteligência de Mercado[cite: 1]. Atuo com foco em **Curadoria de IA, Engenharia de Prompts e Otimização de Jornadas Conversacionais**, conectando dados, inteligência artificial generativa e objetivos estratégicos de negócio[cite: 1].
 
 * 🤖 **Agentes de IA e Curadoria:** Concepção, curadoria, definição de contextos/prompts e testes de homologação de agentes conversacionais no varejo e operações[cite: 1].
 * 📊 **BI & Analytics:** Governança e desenvolvimento de +10 dashboards executivos no Power BI com foco em KPIs estratégicos (Faturamento, Conversão, Ticket Médio, SLA, Lead Time, OTIF e Saving)[cite: 1].
 * ⚙️ **Engenharia de Dados:** Mapeamento e criação de pipelines de dados (SQL Server, MariaDB, NiFi) e automações em Python para previsão de vendas[cite: 1].
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 Security Log Analyzer</h3>
+      <p>Analisa eventos de autenticação e identifica possíveis ataques de força bruta usando quantidade de falhas e intervalo de tempo.</p>
+      <p><code>Python</code> <code>Datetime</code> <code>Arquivos</code> <code>Cybersecurity</code></p>
+      <a href="https://github.com/SilMarques/security-log-analyzer">
+        <img src="https://img.shields.io/badge/VER_PROJETO-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver Security Log Analyzer" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✅ Python Task Manager</h3>
+      <p>Gerenciador de tarefas no terminal com persistência em JSON, orientação a objetos e quatro testes automatizados.</p>
+      <p><code>Python</code> <code>JSON</code> <code>POO</code> <code>Unittest</code></p>
+      <a href="https://github.com/SilMarques/python-task-manager">
+        <img src="https://img.shields.io/badge/VER_PROJETO-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Python Task Manager" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 📚 Laboratório de Estudos
+
+O repositório de estudos preserva exercícios e registra minha evolução prática em Python e SQL.
+
+👉 [Ver estudos de Python e SQL](https://github.com/SilMarques/estudos-python-sql)
 
 ---
 
@@ -83,6 +114,8 @@ Profissional de Dados e IA com vasta atuação em Logística, Supply Chain, Comp
 * 🔹 **APIs e Linguagem M Avançado** – Xperiun[cite: 1]
 * 🔹 **SAP – Gestão de Compras** (20h)[cite: 1]
 
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/INTELIG%C3%8ANCIA_ARTIFICIAL-6B21A8?style=for-the-badge" />
   <img src="https://img.shields.io/badge/BIG_DATA_%26_ANALYTICS-E6007E?style=for-the-badge" />
@@ -94,7 +127,7 @@ Profissional de Dados e IA com vasta atuação em Logística, Supply Chain, Comp
 <br>
 
 <div align="center">
-  <a href="https://github.com/SilMarques">
+  <a href="https://github.com/SilMarques/SilMarques/tree/main/certificados">
     <img src="https://img.shields.io/badge/VER_21_CERTIFICADOS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos os certificados" />
   </a>
 </div>
