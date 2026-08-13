@@ -23,19 +23,19 @@ Profissional de Dados e IA com vasta atuação em Logística, Supply Chain, Comp
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🔐 Security Log Analyzer</h3>
-      <p>Analisa eventos de autenticação e identifica possíveis ataques de força bruta usando quantidade de falhas e intervalo de tempo.</p>
-      <p><code>Python</code> <code>Datetime</code> <code>Arquivos</code> <code>Cybersecurity</code></p>
-      <a href="https://github.com/SilMarques/security-log-analyzer">
-        <img src="https://img.shields.io/badge/VER_PROJETO-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Ver Security Log Analyzer" />
+      <h3>🤖 Agente de IA para Vendas & Suporte Executivo</h3>
+      <p>Desenvolvimento e curadoria de agente de IA voltado à análise de vendas e atuação como auxiliar de Executivos de Contas, gerando análises para clientes, suporte estratégico e mensagens motivacionais de alta relevância.</p>
+      <p><code>Agentes de IA</code> <code>Prompt Engineering</code> <code>Análise de Vendas</code> <code>Curadoria</code></p>
+      <a href="https://github.com/SilMarques">
+        <img src="https://img.shields.io/badge/VER_PROJETO-8E44AD?style=for-the-badge&logo=openai&logoColor=white" alt="Ver Agente de IA para Vendas" />
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ Python Task Manager</h3>
-      <p>Gerenciador de tarefas no terminal com persistência em JSON, orientação a objetos e quatro testes automatizados.</p>
-      <p><code>Python</code> <code>JSON</code> <code>POO</code> <code>Unittest</code></p>
-      <a href="https://github.com/SilMarques/python-task-manager">
-        <img src="https://img.shields.io/badge/VER_PROJETO-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Ver Python Task Manager" />
+      <h3>🗄️ Agente de IA Integrado ao Banco de Dados</h3>
+      <p>Solução inteligente conectada diretamente à base de dados para automação de consultas, análise preditiva e identificação de pontos de melhoria contínua em relatórios e pipelines.</p>
+      <p><code>Agentes de IA</code> <code>SQL</code> <code>Banco de Dados</code> <code>Analytics</code></p>
+      <a href="https://github.com/SilMarques">
+        <img src="https://img.shields.io/badge/VER_PROJETO-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Ver Agente de IA em Banco de Dados" />
       </a>
     </td>
   </tr>
@@ -90,7 +90,7 @@ O repositório de estudos preserva exercícios e registra minha evolução prát
 * Mapeamento de processos, garantia da qualidade e testes manuais de melhorias sistêmicas[cite: 1].
 
 ### **Arthur Lundgren Tecidos S/A – Pernambucanas** | *Analista Tributário / Testes* `set/2007 – jun/2022`[cite: 1]
-* Elaboração de análises e conciliação de dados fiscais/logísticos, monitoramento de prazos operacionais e desenvolvimento de dashboards de acompanhamento[cite: 1].
+* Elaboração de análises e conciliation de dados fiscais/logísticos, monitoramento de prazos operacionais e desenvolvimento de dashboards de acompanhamento[cite: 1].
 
 ---
 
