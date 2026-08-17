@@ -1,10 +1,8 @@
 <div align="center">
 
-### 📊 PORTFÓLIO DE DADOS & IA
+# Olá, eu sou Silviane Marques 👋
 
-# SILVIANE MARQUES
-
-**Business Intelligence • Product Owner Funcional • IA Generativa**
+### Analista de Inteligência de Dados & IA | Curadoria de IA | Power BI | Prompt Engineering | SQL | Python | Product Owner Funcional
 
 Curadoria de agentes de IA, dashboards executivos e governança de dados
 
@@ -96,26 +94,41 @@ Participação no projeto de implantação de Power BI para análise de fechamen
 
 </div>
 
-## Formação e certificações
+---
 
-- **Bacharel em Processos Produtivos** – Faculdade Anhanguera de Osasco (2007-2010)
-- **Pós-Graduação Lato Sensu em Direito Tributário** – Faculdade Educamais (2019-2020)
-- **Pós-Graduação em Desenvolvimento de Software com Métodos Ágeis** – FIAM-FAAM (2022-2023)
-- **Desenvolvimento e Qualidade de Software** – E2E Treinamentos (1200h, 2023)
-- **Formação em Análise de Dados** – Xperiun | UNIFATEC (2024)
+## 🎓 Formação Acadêmica
+
+- 🎓 **Bacharel em Processos Produtivos** – Faculdade Anhanguera de Osasco (2007-2010)
+- 🎓 **Pós-Graduação Lato Sensu em Direito Tributário** – Faculdade Educamais (2019-2020)
+- 🎓 **Pós-Graduação em Desenvolvimento de Software com Métodos Ágeis** – FIAM-FAAM (2022-2023)
+- 💻 **Desenvolvimento e Qualidade de Software** (1200h) – E2E Treinamentos (2023)
+- 📜 **Formação em Análise de Dados** – Xperiun | UNIFATEC (2024)
+
+---
+
+## 📜 Certificações e Cursos em Destaque
+
 - **Power BI Specialist** – Imersão em Power BI & DAX Avançado (30h) – Xperiun
 - **Linguagem DAX**: Avançado (11h) e Essencial (6h) – Xperiun
 - **Power Query**: Avançado (7h) e Essencial (4h) – Xperiun
 - **APIs e Linguagem M Avançado** (13h) – Xperiun
 - **Modelagem de Dados**: Avançado (7h) e Essencial (3h) – Xperiun
-- **Estatística e Python para Análise de Dados** (9h cada) – Xperiun
+- **Estatística para Análise de Dados** (9h) – Xperiun
+- **Python para Análise de Dados** (9h) – Xperiun
 - **SQL Server Essencial** (3h) – Xperiun
 - **Power BI Serviço Essencial** (3h) – Xperiun
+- **Raciocínio Lógico + Lógica de Programação** (5h) – Xperiun
+- **Power Apps: Aplicativo de Checklist** (3h) – Xperiun
 - **Fundamentos de Análise de Dados** (4h) – Xperiun
+- **LinkedIn Champion** (3h) – Xperiun
+- **Minicurso de Power BI** (2h) – Xperiun
 - **Lógica de Programação com Java** (24h) – E2E Treinamentos
-- **Introdução à Ciência de Dados 3.0** e **Big Data Fundamentos 3.0** (12h cada) – Data Science Academy
+- **Introdução à Ciência de Dados 3.0** (12h) – Data Science Academy
+- **Big Data Fundamentos 3.0** (12h) – Data Science Academy
 - **Strategic Sourcing** – Next Level Academy
-- **SAP – Gestão de Compras** (20h)
+- **SAP – Gestão de Compras**
+
+<br>
 
 <div align="center">
 
