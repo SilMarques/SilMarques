@@ -7,7 +7,7 @@
 Curadoria de agentes de IA, dashboards executivos e governança de dados
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silviane-marques)
-[![Certificações](https://img.shields.io/badge/Certificações-20%2B_certificados-6D28D9?style=for-the-badge)](#formação-e-certificações)
+[![Certificações](https://img.shields.io/badge/Certificações-20%2B_certificados-6D28D9?style=for-the-badge)](https://github.com/SilMarques/certificados)
 
 </div>
 
