@@ -81,6 +81,17 @@ Participação no projeto de implantação de Power BI para análise de fechamen
 
 `Power BI` `Fiscal/Tributário` `Dashboards`
 
+## 💻 Desenvolvimento de apps e sites
+
+Além de dados e IA, desenvolvo aplicativos e sites em HTML, CSS e JavaScript. Código no repositório [**projetos**](https://github.com/SilMarques/projetos).
+
+| Projeto | Descrição |
+|---|---|
+| 📔 [**Meu Diário**](https://github.com/SilMarques/projetos/tree/main/meu-diario) | App de diário pessoal: criar, editar e consultar entradas |
+| 📋 [**Minhas Tarefas**](https://github.com/SilMarques/projetos/tree/main/minhas-tarefas) | App de gestão de tarefas com cadastro, detalhes e edição |
+| 🌐 [**Agenda Impulsa**](https://github.com/SilMarques/projetos/tree/main/agenda-impulsa) | Landing page de consultoria, gestão e resultados |
+| 🌱 **Healing Journey** | App para gerar imagens sobre Psicanálise & Fé (em desenvolvimento) |
+
 ## Tecnologias e ferramentas
 
 <div align="center">
@@ -107,6 +118,8 @@ Participação no projeto de implantação de Power BI para análise de fechamen
 ---
 
 ## 📜 Certificações e Cursos em Destaque
+
+> 📂 Os certificados em PDF estão no repositório [**certificados**](https://github.com/SilMarques/certificados), organizados por área: Power BI, DAX e Power Query, Dados/SQL/Python, Programação e SAP.
 
 - **Power BI Specialist** – Imersão em Power BI & DAX Avançado (30h) – Xperiun
 - **Linguagem DAX**: Avançado (11h) e Essencial (6h) – Xperiun
